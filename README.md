@@ -1,8 +1,9 @@
 # Leveraging Data Science for Global Health
 Section 1 Chapter: "Applied Statistical Learning in Python"
 
-No. | Section  | Links
---- | -------- | --------
-(1) | Python   | [Dataset](python/births.csv), [Notebook](python/Python.ipynb), [Solutions](python/Python_Solutions.ipynb)
-(2) | Sample   | [Dataset](sample/lungsample.csv), [Notebook](sample/Lung.ipynb)
-(3) | Exercise | [Dataset](exercise/leukemia.csv), [Notebook](exercise/Leukemia.ipynb), [Solutions](exercise/Solutions.ipynb)
+No. | Chapter Section        | Accompanying Files
+--- | ---------------------- | ------------------
+(1) | 2.3 Python Demo        | [demo.ipynb](demo.ipynb)
+(2) | 2.4 Python Exercise    | [python.ipynb](python.ipynb), [python_solutions.ipynb](python_solutions.ipynb)
+(3) | 7.1 Sample Code Review | [sample.ipynb](sample.ipynb)
+(4) | 7.2 Hands-on Exercise  | [exercise.ipynb](exercise.ipynb), [solutions.ipynb](solutions.ipynb)
